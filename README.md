@@ -1,4 +1,4 @@
-# 🚀 LeetCode Easy Solutions in C
+# 🚀 LeetCode  Solutions of Easy level problems in C
 
 This repository contains my solutions to **LeetCode Easy problems** written in **C**.  
 I started this repo to improve my problem-solving skills, sharpen my C fundamentals, and track my progress 🚀.
