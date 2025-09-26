@@ -17,9 +17,10 @@ I started this repo to improve my problem-solving skills, sharpen my C fundament
 
 ```
 leetcode-easy-C/
-│── arrays/
-│ ├── two_sum.c
-│ ├── palindrome_number.c
+
+ ├── two_sum.c
+ ├── palindrome.c
+ ├── RomanToInteger.c
 
 
 ```
